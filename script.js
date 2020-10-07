@@ -1,0 +1,1 @@
+funtion info_tab() {"This image shows what the Coronavirus looks like under a microscope"};
