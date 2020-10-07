@@ -1,0 +1,46 @@
+body {
+	background-color:#000080;
+	text-align: center;
+	
+}
+h2 {
+	color:#FF0000;
+	font-size: 20pt;
+	font-family: Times, serif; 
+}
+
+h1 {
+	color:#FF0000;
+	font-size: 30pt;
+	font-family: Times, serif; 
+	
+}
+
+input[type=submit] {
+	color: black;
+	background-color: white;
+}
+
+p {
+	color: black;
+	font-size: 12pt;
+}
+
+@media only screen and (min-width: 480px) {
+	body,h2,h1,input,p {
+		font-size: 150%;
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	body,h2,h1,input,p {
+		text-allign: center;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+	
+
+	
+	
