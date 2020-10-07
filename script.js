@@ -1,1 +1,0 @@
-funtion info_tab() {
